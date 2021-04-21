@@ -1,0 +1,13 @@
+{
+  "name": "modern-gradients-green",
+  "title": "Modern Gradients Green Theme",
+  "displayName": "Modern Gradients Green Theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A modern dark theme with gradients.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
