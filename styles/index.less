@@ -144,3 +144,11 @@ img.content-light {
 .thread-list .unread:not(.focused):not(.selected):not(.next-is-selected), .draft-list .unread:not(.focused):not(.selected):not(.next-is-selected) {
   color: fadeout(@text-color, 6%);
 }
+
+.composer-inner-wrap .composer-action-bar-wrap {
+  order: -1;
+}
+
+.composer-inner-wrap .composer-action-bar-wrap .composer-action-bar-content {
+  flex-direction: row-reverse !important;
+}
